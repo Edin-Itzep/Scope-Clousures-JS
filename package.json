@@ -1,0 +1,19 @@
+{
+  "name": "scope-clousures-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edin-Itzep/Scope-Clousures-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edin-Itzep/Scope-Clousures-JS/issues"
+  },
+  "homepage": "https://github.com/Edin-Itzep/Scope-Clousures-JS#readme"
+}
